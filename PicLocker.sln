@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPicLocker", "TestPicLocker\TestPicLocker.csproj", "{A0DAD08B-5812-4698-A8EE-340929BFB369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicLocker.iOS", "PicLocker.iOS\PicLocker.iOS.csproj", "{92135E68-46A0-4C4C-B4BC-F2372CEB4029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicLocker.Android", "PicLocker.Android\PicLocker.Android.csproj", "{F70548C9-DF3A-4AC3-A393-2A01CAF50FE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibPicLocker", "LibPicLocker\LibPicLocker.csproj", "{22C0B2CC-F2C7-4145-ADFB-DB0380A2927E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0DAD08B-5812-4698-A8EE-340929BFB369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0DAD08B-5812-4698-A8EE-340929BFB369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0DAD08B-5812-4698-A8EE-340929BFB369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0DAD08B-5812-4698-A8EE-340929BFB369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92135E68-46A0-4C4C-B4BC-F2372CEB4029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92135E68-46A0-4C4C-B4BC-F2372CEB4029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92135E68-46A0-4C4C-B4BC-F2372CEB4029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92135E68-46A0-4C4C-B4BC-F2372CEB4029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F70548C9-DF3A-4AC3-A393-2A01CAF50FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F70548C9-DF3A-4AC3-A393-2A01CAF50FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F70548C9-DF3A-4AC3-A393-2A01CAF50FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F70548C9-DF3A-4AC3-A393-2A01CAF50FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22C0B2CC-F2C7-4145-ADFB-DB0380A2927E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C0B2CC-F2C7-4145-ADFB-DB0380A2927E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C0B2CC-F2C7-4145-ADFB-DB0380A2927E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C0B2CC-F2C7-4145-ADFB-DB0380A2927E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
